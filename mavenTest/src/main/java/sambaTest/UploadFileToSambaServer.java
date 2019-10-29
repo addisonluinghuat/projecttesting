@@ -1,4 +1,4 @@
-package javaTest;
+package sambaTest;
 
 import jcifs.smb.NtlmPasswordAuthentication;
 import jcifs.smb.SmbFile;
